@@ -6,3 +6,11 @@ An example of the workaround to calibrate a non-transparent two-sided target usi
 ## The setup
 ![Experimental setup](experimental_setup.jpg)
 
+
+## How to calibrate
+1. Learn the basics. The coordinate system defined in OpenPTV is a right-hand coordinate system attached to a calibration body, e.g. 
+
+![calibration coordinate system](coordinate_system.png}
+
+
+
